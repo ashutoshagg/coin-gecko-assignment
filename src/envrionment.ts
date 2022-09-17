@@ -1,0 +1,1 @@
+export const COIN_GECKO_BASE_URL = process.env.REACT_APP_COIN_GECKO_BASE_URL;

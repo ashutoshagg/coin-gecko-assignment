@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/Text should match snapshot 1`] = `
+<div>
+  <strong>
+    Coin
+  </strong>
+   
+  value
+</div>
+`;
+
+exports[`Text should match snapshot 1`] = `
+<div>
+  <strong>
+    Coin
+  </strong>
+   
+  value
+</div>
+`;
