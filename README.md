@@ -4,16 +4,16 @@ In the project directory, you can run:
 
 ### `npm run start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 
 ### `npm run start:prod`
 
-Runs the app in the production mode.\
+Runs the app in the production mode.
 
 ### `npm run test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Added Snapshots for components AppTopBar and Text
+
 
 ### `npm run build`
 
